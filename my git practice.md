@@ -26,9 +26,16 @@ my git practice
      也可以使用-m 
      即 git commit -m "寫一下comment"，就不會再出現提示了
      
+     #### 下一步之前
+     
+     但首先我要先把這裡得東西commit好 : git commit -a -m "目前的內容我先commit"
+     
+     發現圖片檔好像不會上git
+     
+     ![image-20201217162533442](.attachments/image-20201217162533442.png)
+     
   2. 建立 git branch 
 
-     但首先我要先把這裡得東西commit好 : git commit -m "目前的內容我先commit"
      
 
      git branch bugFix
